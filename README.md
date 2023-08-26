@@ -1,1 +1,1 @@
-Pokemon api developed on Santander Bootcamp - DIO
+Pokemon app developed on Santander Bootcamp - DIO
